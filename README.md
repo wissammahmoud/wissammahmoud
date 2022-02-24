@@ -12,4 +12,4 @@ Hi there, I'm Wissam 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wissammahmoud)](https://github.com/wissammahmoud/github-readme-stats)
 
-![Wissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissammahmoud&theme=dark&show_icons=true)
+![Wissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissammahmoud&theme=dark&show_icons=true&icon_color=azure)
