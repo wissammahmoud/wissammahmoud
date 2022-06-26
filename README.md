@@ -1,8 +1,8 @@
 **Hi there, I'm** ***Wissam 👋***
 
-- ⚙️ I’m currently working on ML & AI projects.
-- 🌱 Learning all about **Web3.0 structural basics** & **Flutter.**
-- 👯 Looking to collaborate on ML or NFT Projects.
+- ⚙️ I’m currently working at Siren Analytics.
+- 🌱 Learning all about **AI** & **IOT.**
+- 👯 Looking to collaborate on AI Projects.
 - 🌍 I’m mostly active within **metaverse and automotive communities.**
 - 💬 Ping me about **Web3.0, branding, development, or any tech/marketing related stuff.**
 - 💵 I'm currently bullishly investing in the crypto and metaverse space.
