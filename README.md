@@ -4,7 +4,7 @@
 - 🌱 Learning all about **AI** & **IOT.**
 - 👯 Looking to collaborate on AI Projects.
 - 🌍 I’m mostly active within **robotics and automotive communities.**
-- 💬 Ping me about **Web3.0, branding, development, or any tech/marketing related stuff.**
+- 💬 Ping me about **Circular development, AI, or any tech/marketing related stuff.**
 - 💵 I'm currently bullishly investing in myself.
 - 📫 Reach me: [WhatsApp (+961 707 706 17)](https://wa.me/96170770617) /  [Instagram (@wissam_mahmoud)](https://www.instagram.com/wissam_mahmoud/?utm_medium=copy_link) 
 - 🗣 Pronouns: He/His
